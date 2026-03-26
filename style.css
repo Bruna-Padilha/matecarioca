@@ -57,7 +57,7 @@ body {
     z-index: 1;
 }
 
-/* Garante que o conteúdo (Texto/Logo) fique visível ACIMA do fundo esticado */
+
 .hero-content, nav {
     position: relative;
     z-index: 2;
